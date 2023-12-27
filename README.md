@@ -1,7 +1,15 @@
-# Neural-networks
-here is an implementation of a feedforward neural network using PyTorch that can be used for marketing purposes to analyze customer data and make targeted marketing recommendations.
+# Customer Segmentation and Targeted Marketing Recommendations using Feed-Forward Neural Networks
 
-We will use the "Iris" dataset for this implementation,
-which is a well-known dataset used for classification problems. 
-The dataset contains information about different types of Iris flowers, 
-and our task is to classify the flowers into different types based on their features.
+This project focuses on customer segmentation and targeted marketing recommendations using a Feed-Forward Neural Network (FFNN) implemented in PyTorch. The FFNN is trained on the Iris dataset to classify different species based on their features. The project demonstrates the steps to import necessary libraries, load and preprocess the dataset, define the neural network architecture, train the model using minibatch gradient descent, and evaluate the network's accuracy.
+
+## Usage
+
+### Step 1: Import Necessary Libraries
+
+```python
+# step 1 import necessary libraries
+import torch
+import torch.nn as nn
+import torch.optim as optim
+from sklearn.datasets import load_iris
+from sklearn.model_selection import train_test_split
