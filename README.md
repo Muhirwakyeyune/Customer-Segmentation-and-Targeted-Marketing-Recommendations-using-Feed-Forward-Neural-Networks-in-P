@@ -8,9 +8,7 @@ This project focuses on customer segmentation and targeted marketing recommendat
 
 Advancements in machine learning have enabled businesses to employ data-driven approaches for customer segmentation and targeted marketing. This project focuses on the application of a Feed-Forward Neural Network (FFNN) using PyTorch to classify different Iris species based on the Iris dataset. The primary goal is to understand the steps involved in customer segmentation using neural networks.
 
-## Datasets
 
-The customer dataset, a well-known dataset in machine learning, is used for this project. It consists of features related to Iris flowers, such as sepal length, sepal width, petal length, and petal width. The dataset is divided into training and testing sets to evaluate the model's performance.
 
 ## Methods
 
