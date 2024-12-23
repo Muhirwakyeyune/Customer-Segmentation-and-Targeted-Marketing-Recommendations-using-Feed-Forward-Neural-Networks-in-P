@@ -10,7 +10,7 @@ Advancements in machine learning have enabled businesses to employ data-driven a
 
 ## Datasets
 
-The Iris dataset, a well-known dataset in machine learning, is used for this project. It consists of features related to Iris flowers, such as sepal length, sepal width, petal length, and petal width. The dataset is divided into training and testing sets to evaluate the model's performance.
+The customer dataset, a well-known dataset in machine learning, is used for this project. It consists of features related to Iris flowers, such as sepal length, sepal width, petal length, and petal width. The dataset is divided into training and testing sets to evaluate the model's performance.
 
 ## Methods
 
